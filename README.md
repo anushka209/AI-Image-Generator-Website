@@ -25,12 +25,6 @@ Database
 - MongoDB
 - Cloudinary
 
-## Live Deployment
-
-Live demo:  [AI Image Generator website](https://ai-image-generator-1-1t4p.onrender.com/) 
-
-The server is deployed [AI Image Generator Server](https://ai-image-generator-f5m8.onrender.com).
-
 Image Demo: 
 
 <img width="1413" alt="Screenshot 2024-08-24 at 16 54 05" src="https://github.com/user-attachments/assets/7ec4083c-9c16-46c5-89b4-a16fe2fe3c5a">
