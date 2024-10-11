@@ -1,5 +1,5 @@
 # AI-Image-Generator-Website
-The AI Image Generator is a web application that allows users to create stunning and unique images using advanced artificial intelligence models.
+This AI Image Generation Website allows users to create unique images from text prompts using a deep learning model. It offers features for generating, downloading, and sharing images with the community. The platform integrates OpenAI's API, providing an interactive space for users to explore and share creative ideas.
 
 # AI Image Generator
 
